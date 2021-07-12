@@ -1,37 +1,25 @@
-## Welcome to GitHub Pages
+**<font size=7>大一发生的事情</font>**
 
-You can use the [editor on GitHub](https://github.com/Atomization/Things-in-the-First-Year-in-SYSU/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+---
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+&emsp;&emsp;第X的一篇年记了来着…这次换个分段标准，不按时间了，按事项吧。
 
-### Markdown
+&emsp;&emsp;学习。大一在环境学院，学了些什么啊，我也不知道啊。第一学期顺着暑假军训国庆的劲儿，直接玩儿到了11月后半段，PS不要问我国庆之后一个多月是怎么顺着劲儿的。终于拿起了书本，认真搞了一个多月的高数线代，最后分数出来也还可以。第二学期基本只学了高数吧~~（反复确认）~~，上高数课听课，上别的课写高数作业或者睡觉或者玩儿手机emmmm。化学…第一学期考前老老实实复习基础化学，最后卷面分没及格的我就觉得事情不太妙了，后续事件下面再讲；这学期，有机真的不会啊。两学期的英语课专业课化学实验课基本都是水过去的。公选两学期各一门，都听了外交相关的课，第一学期老师有意思，从不缺课；第二学期老师太烂了（怎么能是我的错呢）半期之后连续翘课一个半月，最后开卷考试本来说可以带的那本教材我也忘了买直接凭着平时的积累篡改历史了。这一年的学习，目的性相当强烈了。（基本上为了转系做准备吧。不知道被初三高三的自己看见这一年的样子会不会被打一顿。）
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+&emsp;&emsp;宿舍。四人间，独卫，独浴，独立阳台，没有宵禁，24小时不断电不断网~~拉一波仇恨再说~~。舍友总体来说都蛮不错的，舍友一揭阳的（潮汕那边临近福建），舍友二湛江（跟海南隔个琼州海峡），舍友三江苏太仓（的土豪），其实他明明就是上海的，他家离上海半小时，比到苏州都近。广东的高分考生，似乎不是能上清北复交的话，就倾向于就在中大解决了，中大的本地保护也算厉害了，环院又是中等靠后的学院，感觉两个广东的舍友相比我们两个外省的基础真的很一般，理科方面；江苏那位被江苏并不存在的本地保护给挤出来了，南大东南都不要他，华东师大差一分，稀里糊涂填志愿级差（中大级差很过分的）瞎jb扣掉到环院。舍友都挺爱干净，有个洁癖比我严重，每天都想拖地。这样一来宿舍始终还是蛮干净的，不像隔壁路过门口都是一股味道。开学的时候学院安排了名为“成长伙伴”的师姐带我们办理各种事物（很多学校学院都有类似的吧不过我们这个是强制异性的），师姐还是很负责很有心的，半个月前还请我们四个人吃饭，算是给她的工作画上句号（其实按计划开学第一个月她的工作就算是结束了）。虽然没什么原则问题，不过我还是能感受到我跟舍友一的性格有明显不合的地方（反复说我的游戏本不便携之类的反正感觉这人是朵奇葩），这个人也承包了我这一年一半的槽点吧（比方他长期用水冲洗ip67级防水防尘米6导致手机差点板砖），不过这一年也算是没有搞出过什么大事件。现在，就转系换宿舍了啊。
 
-```markdown
-Syntax highlighted code block
+&emsp;&emsp;社团，部门，院合唱团，院排球队。社团加的科幻协会，也没什么好说的，中大这两年的政策对社团很不友好，管理级又不够强大，幻协一整年没有活动，到头来大家甚至都不认识，可叹可悲。部门混的团委秘书部，日常活动：写策划、搞推送、发通知、活动来了可能做下PPT，到头来：醒醒你当初想学的PS、PR、AE还是一点儿都不会，也怪自己懒。合唱团每周固定排练3个小时，有比赛或者表演加排另算，排练的时候一直站着唱歌还是蛮辛苦的。说起来合唱队是当初为了加综测进去的，谈不上多么喜欢，虽然团里人都还不错，不过我算是比较贯彻地执行【不要过多与院里的人来往】，也就没什么交情。主要是不想在离开环院的时候，有些难以割舍的人情世故成为阻碍我转系的原因。排球队这群人，算是这一年关系最好最玩儿得开的一群人了，转系的时候也最舍不得他们了，以后不再有机会代表环院比赛了。院队人少，气氛很好，可能又因为是运动的关系，也比较容易拉近距离，经常来打球的人里有个是已经毕业的师姐。
 
-# Header 1
-## Header 2
-### Header 3
+&emsp;&emsp;转系。这一年最重要的事情没有之一了吧。高考之后又一次人生轨迹的重大形变。高考的时候中大的物理系不对重庆招生，第一志愿就报了物理学院的另外一个系“光电信息科学与工程”，两分劣势掉出一志愿，级差一扣，二志愿微电子再掉，落到三志愿环境。说起来环境这个专业是拍脑袋决定的，虽然不是乱填，但也确实不严谨。当然不甘心了，还没进大学就想过转系了，不过那时候还不确定，想想进来再看看吧。后来经过接触嘛，发现环境还能学下去，并不十分喜欢，但也不讨厌，直到第一学期期末基础化学卷面分没有及格。化学是真的吃不下去了（化学实验尤其是有机实验我也是真心不喜欢，太难闻了），那时候我就想，我一定要转系，我一定要学物理。高考的残念和曾经的梦想就在那里一直把我卡着，我不迈过去是不行了。其实我也想过为什么要学物理，我是一直喜欢物理没错，但是纯物理相关的学科也算是一抓一大把了，非要学基础学科？思考的结果是发现可能还是真的没想好未来到底要干什么，大学干脆学点自己最喜欢的东西。我清楚我的性格不是以后可以半辈子扑在科研的那种，研究生的时候恐怕又要换个专业吧，应该是物理相关的基础学科。物理系的学习肯定会比环境更难，我也不知道自己这样转过去，会不会被以后的学习挫败，会不会后悔，但是我知道，如果我甚至都没有尝试过一下转去学物理，我一定会后悔。有时候自己觉得自己是在瞎jb折腾，大学重来一遍，时间成本还是在那儿的，谢谢爸妈没有对我转系提出太多质疑，像高考时没有干涉我的志愿一样。能自己选择自己将来的路很幸运，能选择自己喜欢的学科很幸运，能学习物理很幸运。
 
-- Bulleted
-- List
+&emsp;&emsp;学校。一年下来，对学校没什么感情。对周围的人还是有感情的，虽然结交的人不多，但还是有一些值得我付出感情的人。学校没有什么特别打动我的地方，倒是出了几摊子破事，学校的态度让我感觉比较心寒。虽然说天下乌鸦一般黑，同样的事情发生在别的高校也差不多处理方式，但我终究觉得大学不应该是这个样子。中大现在除了跟学术相关的东西都不受待见，在拼命追求双一流的同时抛弃或者说忽略了很多本应该更重要的东西。大学很多莫名其妙的政治任务我也不喜欢，借着比较自由随性的性格，翘了不少活动，给班委们带来困扰了，确实抱歉。
 
-1. Numbered
-2. List
+&emsp;&emsp;女票。女票仍未上线。3月的时候跟她绝交了，很痛苦，但不后悔。
 
-**Bold** and _Italic_ and `Code` text
+&emsp;&emsp;感觉今年要记的东西基本上就是这些了吧，又是一篇在火车上撸完的流水账orz。
 
-[Link](url) and ![Image](src)
-```
+&emsp;&emsp;正好，到重庆了。
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+&emsp;&emsp;到家了。
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Atomization/Things-in-the-First-Year-in-SYSU/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<font color=DarkGray>Edited July 18,2018</font>
